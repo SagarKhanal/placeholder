@@ -1,0 +1,16 @@
+{
+    "error": "success",
+    "message": "News Listing Successfull",
+    "data": [
+        {
+            "id": 1,
+            "title": "test",
+            "description": "helo test test test ",
+            "image": "http://adminview.streamhash.com/placeholder.png ",
+            "video": null,
+            "created_at": "2019-09-22 17:16:58",
+            "created_by": 1
+        }
+    ],
+    "meta": ""
+}
