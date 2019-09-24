@@ -1,0 +1,11 @@
+buildTypes {
+        release {
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile("proguard-android.txt"), "proguard-rules.pro"
+        }
+    }
+    
+   def enableSeparateBuildPerCPUArchitecture = true
+    
+   def enableProguardInReleaseBuilds = true
